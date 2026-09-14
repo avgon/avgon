@@ -14,6 +14,10 @@ Founder and full-stack developer building open-source AI operations and human-go
 
 - [Open APA Core](https://github.com/avgon/open-apa-core) — workflow state machines, risk gates, human approvals, and append-only audit trails for AI-assisted operations.
 
+## Upstream contributions
+
+- [Weblate #21643](https://github.com/WeblateOrg/weblate/pull/21643) — preserved custom Ollama gateway path prefixes and added a regression test.
+
 ## Contribution approach
 
 I contribute through focused, testable improvements: documentation, reproducible bug reports, tests, issue triage, and small code changes that solve a real user problem.
