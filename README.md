@@ -9,10 +9,12 @@ Founder and full-stack developer building open-source AI operations and human-go
 - Auditability, approvals, and risk-aware automation
 - TypeScript, Python, APIs, and developer tooling
 - E-commerce and B2B operations automation
+- Generative Engine Optimization (GEO) and AI visibility tooling
 
 ## Open-source work
 
 - [Open APA Core](https://github.com/avgon/open-apa-core) — workflow state machines, risk gates, human approvals, and append-only audit trails for AI-assisted operations.
+- [jev-seo-geo](https://github.com/avgon/jev-seo-geo) — open-source toolkit for AI visibility: content scoring, title ranking, brand probes, competitor-gap analysis, and actionable GEO optimization plans.
 
 ## Upstream contributions
 
